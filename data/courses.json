@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "courseName": "Full Stack Web Development",
+        "courseDescription": "The course of Full Stack Web Development has come by Skill Up. Our Course Instractor is Talha Tarique. If you are interested in Full Stack Web Development then join our course now",
+        "courseImage": "https://globallinkeducation.com/wp-content/uploads/2019/10/Web-Development-1-1.jpg",
+        "courseDuration": "6 Month",
+        "instractorName": "Talha Tarique",
+        "instractorImage": "https://awsimages.detik.net.id/content/2009/12/02/398/Bill_Gates(movieeye)200.jpg",
+        "price": 59,
+        "rating": "⭐⭐⭐⭐⭐",
+        "lessons": 30,
+        "student": 5000
+    },
+    {
+        "id": 2,
+        "courseName": "Javascript for Beginners to Advance",
+        "courseDescription": "The course of Javascript for Beginners to Advance has come by Skill Up. Our Course Instractor is  Talha Tarique If you are interested in Javascript for Beginners to Advance then join our course now",
+        "courseImage": "https://www.rswebsols.com/wp-content/uploads/2016/01/web-design-web-development.jpg",
+        "courseDuration": "6 Month",
+        "instractorName": "Talha Tarique",
+        "instractorImage": "https://awsimages.detik.net.id/content/2009/12/02/398/Bill_Gates(movieeye)200.jpg",
+        "price": 39,
+        "rating": "⭐⭐⭐⭐⭐",
+        "lessons": 30,
+        "student": 4000
+    },
+    {
+        "id": 3,
+        "courseName": "Wordpress Theme Customaization",
+        "courseDescription": "The course of Wordpress Theme Customaization has come by Skill Up. Our Course Instractor is Talha Tarique. If you are interested then join our course now",
+        "courseImage": "https://www.construoseusite.com.br/wp-content/uploads/2016/11/proteger-url-wordpress-600x300.jpg",
+        "courseDuration": "6 Month",
+        "instractorName": "Talha Tarique",
+        "instractorImage": "https://awsimages.detik.net.id/content/2009/12/02/398/Bill_Gates(movieeye)200.jpg",
+        "price": 48,
+        "rating": "⭐⭐⭐⭐⭐",
+        "lessons": 30,
+        "student": 3000
+    },
+    {
+        "id": 4,
+        "courseName": "C++ for Beginners to Intermediate",
+        "courseDescription": "The course of C++ for beginners to Advance has come by Skill Up. Our Course Instractor is  Talha Tarique. If you are interested in C++ then join our course now",
+        "courseImage": "https://www.tradersinsight.news/wp-content/uploads/2019/07/quant-article-feature-c-plus-plus.jpg",
+        "courseDuration": "6 Month",
+        "instractorName": "Talha Tarique",
+        "instractorImage": "https://awsimages.detik.net.id/content/2009/12/02/398/Bill_Gates(movieeye)200.jpg",
+        "price": 59,
+        "rating": "⭐⭐⭐⭐⭐",
+        "lessons": 30,
+        "student": 4000
+    },
+    {
+        "id": 5,
+        "courseName": "Java for Beginners to Advance",
+        "courseDescription": "The course of Java for beginners to Advance has come by Skill Up. Our Course Instractor is  Talha Tarique. If you are interested in Java then join our course now",
+        "courseImage": "https://er.yuvayana.org/wp-content/uploads/sites/11/2022/08/History-Features-of-Java.jpg",
+        "courseDuration": "6 Month",
+        "instractorName": "Talha Tarique",
+        "instractorImage": "https://awsimages.detik.net.id/content/2009/12/02/398/Bill_Gates(movieeye)200.jpg",
+        "price": 44,
+        "rating": "⭐⭐⭐⭐⭐",
+        "lessons": 30,
+        "student": 5000
+    },
+    {
+        "id": 6,
+        "courseName": "Python for Beginners to Advance",
+        "courseDescription": "The course of Python for beginners to advance has come by Skill Up. Our Course Instractor is  Talha Tarique If you are interested in Python then join our course now",
+        "courseImage": "https://images.universe.com/baa642d7-667d-4d62-b068-37dfca8233ed/-/progressive/yes/-/inline/yes/",
+        "courseDuration": "6 Month",
+        "instractorName": "Talha Tarique",
+        "instractorImage": "https://awsimages.detik.net.id/content/2009/12/02/398/Bill_Gates(movieeye)200.jpg",
+        "price": 59,
+        "rating": "⭐⭐⭐⭐⭐",
+        "lessons": 30,
+        "student": 5000
+    }
+]
